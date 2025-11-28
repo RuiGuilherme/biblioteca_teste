@@ -1,0 +1,33 @@
+INSERT INTO Usuario (nome, dataNascimento, telefone, email, tipoUsuario) VALUES
+('Administrador Geral', '1980-05-10', '62999990000', 'admin@biblioteca.com', 'admin'),
+('Funcionário Biblioteca', '1990-08-15', '62988880000', 'funcionario@biblioteca.com', 'funcionario');
+
+INSERT INTO Usuario (nome, dataNascimento, telefone, email, tipoUsuario) VALUES
+('Leitor 1', '1990-01-01', '62990000001', 'leitor1@biblioteca.com', 'leitor'),
+('Leitor 2', '1990-01-02', '62990000002', 'leitor2@biblioteca.com', 'leitor'),
+('Leitor 3', '1990-01-03', '62990000003', 'leitor3@biblioteca.com', 'leitor'),
+('Leitor 4', '1990-01-04', '62990000004', 'leitor4@biblioteca.com', 'leitor'),
+('Leitor 5', '1990-01-05', '62990000005', 'leitor5@biblioteca.com', 'leitor'),
+('Leitor 6', '1990-01-06', '62990000006', 'leitor6@biblioteca.com', 'leitor'),
+('Leitor 7', '1990-01-07', '62990000007', 'leitor7@biblioteca.com', 'leitor'),
+('Leitor 8', '1990-01-08', '62990000008', 'leitor8@biblioteca.com', 'leitor'),
+('Leitor 9', '1990-01-09', '62990000009', 'leitor9@biblioteca.com', 'leitor'),
+('Leitor 10', '1990-01-10', '62990000010', 'leitor10@biblioteca.com', 'leitor'),
+('Leitor 11', '1990-01-11', '62990000011', 'leitor11@biblioteca.com', 'leitor'),
+('Leitor 12', '1990-01-12', '62990000012', 'leitor12@biblioteca.com', 'leitor'),
+('Leitor 13', '1990-01-13', '62990000013', 'leitor13@biblioteca.com', 'leitor'),
+('Leitor 14', '1990-01-14', '62990000014', 'leitor14@biblioteca.com', 'leitor'),
+('Leitor 15', '1990-01-15', '62990000015', 'leitor15@biblioteca.com', 'leitor'),
+('Leitor 16', '1990-01-16', '62990000016', 'leitor16@biblioteca.com', 'leitor'),
+('Leitor 17', '1990-01-17', '62990000017', 'leitor17@biblioteca.com', 'leitor'),
+('Leitor 18', '1990-01-18', '62990000018', 'leitor18@biblioteca.com', 'leitor'),
+('Leitor 19', '1990-01-19', '62990000019', 'leitor19@biblioteca.com', 'leitor'),
+('Leitor 20', '1990-01-20', '62990000020', 'leitor20@biblioteca.com', 'leitor'),
+('Leitor 21', '1990-01-21', '62990000021', 'leitor21@biblioteca.com', 'leitor'),
+('Leitor 22', '1990-01-22', '62990000022', 'leitor22@biblioteca.com', 'leitor'),
+('Leitor 23', '1990-01-23', '62990000023', 'leitor23@biblioteca.com', 'leitor'),
+('Leitor 24', '1990-01-24', '62990000024', 'leitor24@biblioteca.com', 'leitor'),
+('Leitor 25', '1990-01-25', '62990000025', 'leitor25@biblioteca.com', 'leitor'),
+('Leitor 26', '1990-01-26', '62990000026', 'leitor26@biblioteca.com', 'leitor'),
+('Leitor 27', '1990-01-27', '62990000027', 'leitor27@biblioteca.com', 'leitor'),
+('Leitor 28', '1990-01-28', '62990000028', 'leitor28@biblioteca.com', 'leitor');

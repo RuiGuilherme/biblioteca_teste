@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  db:
+    image: mariadb:12.1.2
+    container_name: biblioteca_db
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: Biblioteca
+      MYSQL_USER: biblioteca_user
+      MYSQL_PASSWORD: biblioteca_pass
+    ports:
+      - '3306:3306'
+    volumes:
+      - ./scripts:/docker-entrypoint-initdb.d
