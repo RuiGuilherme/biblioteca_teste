@@ -9,7 +9,7 @@
 1. Faça git clone do projeto
 2. No terminal, navegue até a pasta raiz do projeto:
    ```bash
-   cd biblioteca
+   cd biblioteca_teste
    ```
 3. Execute o comando para subir o container:
    ```bash
